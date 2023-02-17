@@ -8,7 +8,7 @@ public class Hola {
     {
         System.out.println("Hola Mundo");
         //añade aqui otro System.out.println con tu nombre completo
-		System.out.println("Jorge CC");
+		System.out.println("Aarón wet");
     }
 	
 
